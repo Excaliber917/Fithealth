@@ -1,4 +1,5 @@
-#this is the copy of the hackathon file
+#LIVE PREVIEW
+https://fithealth-frontend.onrender.com/
 # FitHealth-Your Health Is Our Priority
 
 This is a full-stack health suggestion application built using the MERN stack. The project features a modern UI/UX designed to be user-friendly and accessible to everyone and to every screen width. By leveraging **Google's Gemini Pro AI**, the app provides intelligent health recommendations tailored to user input.
